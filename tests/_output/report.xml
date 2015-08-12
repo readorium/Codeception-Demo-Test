@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="acceptance" tests="1" assertions="1" failures="0" errors="0" time="0.272957">
+    <testcase name="Welcome" file="/Users/christianjuth/Desktop/codeception-demo-test/tests/acceptance/WelcomeCept.php" feature="perform actions and see result" assertions="1" time="0.272957"/>
+  </testsuite>
+</testsuites>
